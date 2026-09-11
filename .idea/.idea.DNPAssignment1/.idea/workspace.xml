@@ -11,11 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f02342f1-9db0-47b4-9776-eb2c2ea2f5bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Server/Entities/Comment.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/Entities/Post.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/Entities/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/InMemoryRepositories/CommentInMemoryRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/InMemoryRepositories/InMemoryRepositories.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/InMemoryRepositories/PostInMemoryRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/InMemoryRepositories/UserInMemoryRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/RepositoryContracts/ICommentRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/RepositoryContracts/IPostRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/RepositoryContracts/IUserRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/RepositoryContracts/RepositoryContracts.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DNPAssignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DNPAssignment1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DNPAssignment1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DNPAssignment1.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/Entities/Comment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Entities/Comment.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/Entities/Post.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Entities/Post.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/Entities/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Entities/User.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +37,15 @@
     <setting file="file://$PROJECT_DIR$/Server/Entities/Comment.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Server/Entities/Post.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Server/Entities/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/InMemoryRepositories/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/InMemoryRepositories/CommentInMemoryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/InMemoryRepositories/PostInMemoryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/InMemoryRepositories/UserInMemoryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/RepositoryContracts/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/RepositoryContracts/IComment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/RepositoryContracts/ICommentRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/RepositoryContracts/IPostRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/RepositoryContracts/IUserRepository.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0,
